@@ -1,1 +1,1 @@
-# odin-recipes
+This project is called recipes where I have to make a website displaying three different recipes and link them seperately into three different pages with images.
