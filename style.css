@@ -13,7 +13,11 @@
     border-radius: 70px;
 }
 div {
+    
     text-align: center;
+    align-items: center;
+    width: 100%;
+    display: flex;
 }
 
 
