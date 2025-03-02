@@ -25,24 +25,27 @@ div {
     margin: 0 auto 50px;
     border-radius: 30px;
     font-size: 70px;
+    display: flex;
 }
 .chicken {
     background-color: rgb(157, 255, 0);
     font: sans-serif;
     color: green;
-    padding: 50px 50px 20px;
+    padding: 25px 50px 20px;
     margin: 100px auto 50px;
     border-radius: 30px;
     font-size: 70px;
+    display: flex;
 }
 .sambusa {
     background-color: rgb(157, 255, 0);
     font: sans-serif;
     color: green;
-    padding: 50px 50px 20px;
+    padding: 25px 50px 20px;
     margin: 100px auto 50px;
     border-radius: 30px;
     font-size: 70px;
+    display: flex;
 }
 .home {
     background-color: red;
