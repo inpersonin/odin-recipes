@@ -1,0 +1,51 @@
+.head
+{
+    color: greenyellow;
+    background-color: green;
+    text-align: center;
+    font-size: 100px;
+    font: arial;
+    width: 30%;
+    padding: 50px 100px;
+    margin: 60px auto 100px;
+    border-width: green 2px;
+    border-style: solid;
+    border-radius: 70px;
+}
+div {
+    text-align: center;
+}
+
+
+.lasagna {
+    background-color: rgb(157, 255, 0);
+    font: sans-serif;
+    color: green;
+    padding: 25px 50px 20px;
+    margin: 0 auto 50px;
+    border-radius: 30px;
+    font-size: 70px;
+}
+.chicken {
+    background-color: rgb(157, 255, 0);
+    font: sans-serif;
+    color: green;
+    padding: 50px 50px 20px;
+    margin: 100px auto 50px;
+    border-radius: 30px;
+    font-size: 70px;
+}
+.sambusa {
+    background-color: rgb(157, 255, 0);
+    font: sans-serif;
+    color: green;
+    padding: 50px 50px 20px;
+    margin: 100px auto 50px;
+    border-radius: 30px;
+    font-size: 70px;
+}
+.home {
+    background-color: red;
+    font: "fantasy";
+    color: black
+}
