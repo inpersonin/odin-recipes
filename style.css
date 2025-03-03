@@ -5,7 +5,7 @@
     text-align: center;
     font-size: 100px;
     font: arial;
-    width: 30%;
+    width: 575px;
     padding: 50px 100px;
     margin: 60px auto 100px;
     border-width: green 2px;
@@ -24,12 +24,15 @@ div {
 .lasagna {
     background-color: rgb(157, 255, 0);
     font: sans-serif;
+    width: 230px;
     color: green;
     padding: 25px 50px 20px;
     margin: 0 auto 50px;
     border-radius: 30px;
     font-size: 70px;
     display: flex;
+    
+    
 }
 .chicken {
     background-color: rgb(157, 255, 0);
@@ -38,21 +41,160 @@ div {
     padding: 25px 50px 20px;
     margin: 100px auto 50px;
     border-radius: 30px;
+    text-align: center;
     font-size: 70px;
+    width: 400px;
     display: flex;
 }
 .sambusa {
     background-color: rgb(157, 255, 0);
     font: sans-serif;
     color: green;
-    padding: 25px 50px 20px;
+    padding: 25px 50px 25px;
     margin: 100px auto 50px;
     border-radius: 30px;
     font-size: 70px;
+    width: 250px;
     display: flex;
 }
-.home {
-    background-color: red;
+a {
+  
     font: "fantasy";
-    color: black
+    color: black;
+    width: 30px;
+    padding: 5px 10px 10px 10px;
+    margin: 40px 10px 40px;
+    border-radius: 10px;
+    font-size: 35px;
+    text-decoration: none;
+}
+#h1 {
+    background-color: orange;
+}
+h1 {
+    text-align: center;
+    font-size: 50px;
+    font: "fantasy","roboto",arial;
+    width: 100%;
+    padding: 50px 100px;
+    margin: 60px auto 50px;
+    border-width: orange 5px;
+    border-left: 0;
+    border-right: 0;
+    border-style: solid;
+    display: flex;
+    
+}
+.l {
+    background-color: orange;
+}
+img {
+    width: auto;
+    height: 500px;
+    border-radius: 50px;
+    display: block;
+    align-items: center;
+    margin: auto;
+}
+
+p {
+    text-align: center;
+    font-size: 30px;
+    font: serif,arial;
+    padding: 25px 50px;
+    margin: 60px auto 50px;
+    border-width: green 5px;
+    border-style: solid;
+    border-radius: 50px;
+    display: flex;
+    
+}
+.t {
+    background-color: orange;
+}
+h2 {
+    
+    font-size: 50px;
+    width: 100%;
+    font: "fantasy","roboto",arial;
+    padding: 40px 100px 40px;
+    margin: 60px auto 50px;
+    border-width: 5px;
+    border-style: solid;
+    display: flex;
+    border-left: 0;
+    border-right: 0;
+    
+}
+.I {
+    background-color: orange;
+}
+ul {
+    text-align: left;
+    font-size: 30px;
+    font: serif,arial;
+    padding: 25px 50px;
+    margin: 60px auto 50px;
+    border-width: black 5px;
+    border-style: solid;
+    border-radius: 10px;
+    display: block;
+}
+.ul {
+    background-color: orange;
+}
+ol {
+    text-align: left;
+    font-size: 30px;
+    font: serif,arial;
+    padding: 25px 50px;
+    margin: 60px auto 50px;
+    border-width: black 5px;
+    border-style: solid;
+    border-radius: 10px;
+    display: block;
+}
+.ol {
+    background-color: orange;
+}
+#h2 {
+    background-color: rgb(170, 93, 20);
+}
+.f {
+    background-color: rgb(170, 93, 20);
+}
+.p1 {
+    background-color: rgb(170, 93, 20);
+}
+.I1 {
+    background-color: rgb(170, 93, 20);
+}
+.ul1 {
+    background-color: rgb(170, 93, 20);
+}
+.ol1 {
+    background-color: rgb(170, 93, 20);
+}
+#h3 {
+    background-color: rgb(173, 63, 35);
+
+}
+.s {
+    background-color: rgb(173, 63, 35);
+}
+.p3 {
+    background-color: rgb(173, 63, 35);
+}
+.I3 {
+    background-color: rgb(173, 63, 35);
+}
+.ul3 {
+    background-color: rgb(173, 63, 35);
+}
+.ol3 {
+    background-color: rgb(173, 63, 35);
+}
+#i3 {
+    width: 600px;
+height: 500px;
 }
